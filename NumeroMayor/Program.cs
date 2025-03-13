@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Tabata Vernaza
 namespace NumeroMayor
 {
     internal class Program
