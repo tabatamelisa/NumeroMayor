@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\22-09\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.exe.config
+C:\Users\Usuario\Desktop\22-09\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.exe
+C:\Users\Usuario\Desktop\22-09\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.pdb
+C:\Users\Usuario\Desktop\22-09\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\22-09\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\22-09\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.exe
+C:\Users\Usuario\Desktop\22-09\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.pdb
